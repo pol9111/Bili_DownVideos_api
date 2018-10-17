@@ -1,0 +1,16 @@
+﻿
+python two.py -d 猫 -k 猫 -p 1
+
+
+参考:
+https://github.com/Jack-Cherish/python-spider/blob/master/bilibili/bilibili.py
+https://github.com/SStarLib/biliSpByAv/blob/master/spider.py
+
+
+
+window.__playinfo__=
+{"code":0,"message":"0","ttl":1,"data":{"from":"local","result":"suee","message":"","quality":32,"format":"flv480","timelength":1025088,"accept_format":"flv,hdmp4,flv480,flv360","accept_description":["高清 1080P","高清 720P","清晰 480P","流畅 360P"],"accept_quality":[80,48,32,15],"video_codecid":7,"seek_param":"start","seek_type":"offset","durl":[{"order":1,"length":315211,"size":11482942,"ahead":"EhA=","vhead":"AWQAH//hAB1nZAAorNlAeAIn5ZqAhoCgAAADACAAAAeR4wYywAEABWjvhPLA","url":"http://upos-hz-mirrorkodo.acgvideo.com/upgcxcode/48/68/11496848/11496848-1-32.flv?e=ig8euxZM2rNcNbT1hbdVtWRghbKVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEVEuxTEto8i8o859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&deadline=1539705643&dynamic=1&gen=playurl&oi=2015684576&os=kodo&platform=pc&rate=61200&trid=4d6295d39dd942dabf7781738aeec955&uipk=5&uipv=5&um_deadline=1539705643&um_sign=fcaae8d78c4e706ce508e64f62c006e0&upsig=313a83c0a2c886c497f87e04df2f5064","backup_url":["http://upos-hz-mirrorcos.acgvideo.com/upgcxcode/48/68/11496848/11496848-1-32.flv?um_deadline=1539705643&platform=pc&rate=61200&oi=2015684576&um_sign=fcaae8d78c4e706ce508e64f62c006e0&gen=playurl&os=cos&trid=4d6295d39dd942dabf7781738aeec955"]},{"order":2,"length":366643,"size":13235852,"ahead":"","vhead":"","url":"http://upos-hz-mirrorks3u.acgvideo.com/upgcxcode/48/68/11496848/11496848-2-32.flv?e=ig8euxZM2rNcNbT1hbdVtWRghbKVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEVEuxTEto8i8o859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&deadline=1539705643&gen=playurl&oi=2015684576&os=ks3u&platform=pc&trid=4d6295d39dd942dabf7781738aeec955&uipk=5&uipv=5&upsig=749ca272d1d6615d2d8d4c9d0ffde05b","backup_url":["http://upos-hz-mirrorcos.acgvideo.com/upgcxcode/48/68/11496848/11496848-2-32.flv?um_deadline=1539705643&platform=pc&rate=61200&oi=2015684576&um_sign=032317db43d4e2c357654d3755bffcea&gen=playurl&os=cos&trid=4d6295d39dd942dabf7781738aeec955"]},{"order":3,"length":343234,"size":13804642,"ahead":"","vhead":"","url":"http://upos-hz-mirrorkodo.acgvideo.com/upgcxcode/48/68/11496848/11496848-3-32.flv?e=ig8euxZM2rNcNbT3hwdVtWRz7bdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEVEuxTEto8i8o859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&deadline=1539705643&dynamic=1&gen=playurl&oi=2015684576&os=kodo&platform=pc&rate=68000&trid=4d6295d39dd942dabf7781738aeec955&uipk=5&uipv=5&um_deadline=1539705643&um_sign=8179a1d99cd682fa5c26436965244cf9&upsig=1ba36c158e0858b664945e1808195e3e","backup_url":["http://upos-hz-mirrorcos.acgvideo.com/upgcxcode/48/68/11496848/11496848-3-32.flv?um_deadline=1539705643&platform=pc&rate=68000&oi=2015684576&um_sign=8179a1d99cd682fa5c26436965244cf9&gen=playurl&os=cos&trid=4d6295d39dd942dabf7781738aeec955"]}]},"session":"91b4c61e2c282bf08aa7279996bcab41"}
+
+
+
+
